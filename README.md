@@ -1,2 +1,2 @@
-# Preguntas-y-respuestas
-En esta rama se encuentran todos los comandos de la base de datos, antes de correr el programa se debe de correr el archivo tablas y luego el archivo datos utilizando al usuario creado previament (Leer ele archivo readme del otro repositirio
+# Codigo fuente programa ESP32
+Los archivos se encuentran en la rama dev, main.py contiene el codigo fuente, wifi_credentials.py contiene las credenciales para la conexion via wifi
